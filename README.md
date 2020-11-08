@@ -7,7 +7,8 @@
 ## This is [Android Application](http://tech.prizm.space/files/prizm.apk)
 
 ## User friendly [Online Wallet](https://wallet.prizm.space/) ([Mirror](https://wallet.prizm-space.com/))
-## TOR addresses ([TOR BROWSER](https://www.torproject.org) compatible): [walletyfy6bb3jzt2q3vtyl7jsguwsgn4citlv33ousnow2c3vaa3pyd.onion](http://walletyfy6bb3jzt2q3vtyl7jsguwsgn4citlv33ousnow2c3vaa3pyd.onion/), [prizmkxgbreudbpm.onion](http://prizmkxgbreudbpm.onion/)
+
+## Official blockchain snapshot [Torrent](http://tech.prizm.space/files/prizm_db_1250.torrent) / ([Magnet](magnet:?xt=urn:btih:e5856f74dda27d89a156d13857f68cf1c256fd2b&dn=prizm_db_1250&tr=http%3a%2f%2f88.99.219.100%3a6969%2fannounce&so=0))
 
 ## [Windows and OS X client downloads](http://94.130.167.158/center/)
 
