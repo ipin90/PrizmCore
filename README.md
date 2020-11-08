@@ -8,7 +8,8 @@
 
 ## User friendly [Online Wallet](https://wallet.prizm.space/) ([Mirror](https://wallet.prizm-space.com/))
 
-## Official blockchain snapshot [.torrent](http://tech.prizm.space/files/prizm_db_1250.torrent) (MD5: 534542dc2dc35f1fbbb8ec1aacb7b992)
+## Official blockchain snapshot [.torrent](http://tech.prizm.space/files/prizm_db_1250.torrent) 
+(MD5: 534542dc2dc35f1fbbb8ec1aacb7b992)
 
 ## [Windows and OS X client downloads](http://94.130.167.158/center/)
 
